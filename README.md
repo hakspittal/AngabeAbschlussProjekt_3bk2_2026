@@ -133,6 +133,8 @@ Beispiele:
 └── assets/
 ```
 
+> Das heißt, der Ordner `docs` soll mit Obsidian zu öffnen sein. 
+
 
 ## 🟢 00_Start.md
 ```markdown
