@@ -1,5 +1,3 @@
-# AngabeAbschlussProjekt_3bk2_2026
-
 
 
 ## 📌 Projektüberblick
@@ -39,10 +37,11 @@ Euer Projekt muss enthalten:
 
 - Schüler A → 1:n Beziehung #1
 - Schüler B → 1:n Beziehung #2
+- (eventuell Schüler C → 1:n Beziehung #3)
 
 ### m:n Beziehung (gemeinsam)
 
-- beide Schüler gemeinsam umsetzen
+- Schüler gemeinsam umsetzen
 
 
 
@@ -73,33 +72,16 @@ Beispiele:
 
 # 👨‍💻 Arbeitsteilung
 
-## 🧑‍🎓 Schüler A
-- 1:n Beziehung #1
+## 🧑‍🎓 Schüler A/B (eventuell C)
+- 1:n Beziehung
 - Entities
 - Repository
 - Controller
 - CRUD
 - Validierung
 
-
-
-## 🧑‍🎓 Schüler B
-- 1:n Beziehung #2
-- Entities
-- Controller
-- Views (Thymeleaf)
-- CRUD
-- Validierung
-
-## 🤝 Gemeinsam (oder Schüler C)
+## 🤝 Gemeinsam
 - m:n Beziehung
-- Entities
-- Controller
-- Views (Thymeleaf)
-- CRUD
-
----
-
 - Validierung
 - Integration
 - Diagramm
@@ -152,7 +134,6 @@ Beispiele:
 
 
 
-
 ## 🟢 00_Start.md
 ```markdown
 # Projekt: [Name]
@@ -160,6 +141,7 @@ Beispiele:
 ## Team
 - Schüler A
 - Schüler B
+- (Schüler C)
 
 ## Kurzbeschreibung
 [2–3 Sätze]
@@ -188,8 +170,7 @@ Beispiele:
 
 * Entities
 * Beziehungen (1:n, m:n)
-* ER-Diagramm im Mermaid-Format (Klassendiagramm)
-
+* ER-Diagramm (Screenshot aus MySQL-Workbench bzw. erste Skizze auch händisch oder per Mermaid)
 
 
 ## 🏗️ 03_Architektur.md
@@ -296,7 +277,3 @@ Einbindung:
 * [ ] Dokumentation vollständig
 * [ ] Präsentation vorbereitet
 
-
-
-
- 
