@@ -119,7 +119,7 @@ Beispiele:
 
 ## 📂 Ordnerstruktur im Repository
 
-
+```
 /docs
 │
 ├── 00_Start.md
@@ -131,7 +131,7 @@ Beispiele:
 ├── 06_Teamarbeit.md
 ├── 07_Reflexion.md
 └── assets/
-
+```
 
 
 ## 🟢 00_Start.md
