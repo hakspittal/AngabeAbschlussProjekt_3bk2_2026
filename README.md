@@ -267,7 +267,7 @@ Einbindung:
 
 # 📋 Checkliste
 
-* [ ] 4 Entities vorhanden (+ 1 Zwischentabelle)
+* [ ] 4 (bzw. 5) Entities vorhanden (+ 1 Zwischentabelle)
 * [ ] 2 × 1:n Beziehungen
 * [ ] 1 × m:n Beziehung
 * [ ] CRUD umgesetzt
