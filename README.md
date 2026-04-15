@@ -119,7 +119,7 @@ Beispiele:
 
 ## 📂 Ordnerstruktur im Repository
 
-```
+```markdown
 /docs
 │
 ├── 00_Start.md
