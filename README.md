@@ -223,13 +223,13 @@ Beispiele:
 * Screenshots
 * Diagramme
 
-Einbindung:
+Einbindung in andere Dokumente:
 
 ```markdown
-![[assets/bild.png]]
+!()[docs/assets/bild.png]
 ```
 
-
+siehe [Tipps zur Dokumentation auf Github](20_Tutorials/Tipps%20zur%20Dokumentation%20auf%20Github.md)
 
 ## 📏 Dokumentationsregeln
 
