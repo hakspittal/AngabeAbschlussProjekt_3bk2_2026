@@ -1,5 +1,3 @@
-
-
 ## 📌 Projektüberblick
 
 Ihr entwickelt in 2er-Teams (bzw. evtl. 1 3er-Team) eine Webanwendung mit:
